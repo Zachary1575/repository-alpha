@@ -7,3 +7,8 @@
 # Repository α
 Contains mostly coding implementations.
 </div>
+
+# Projects & Tasks
+| Project | Progress |
+| --- | --- |
+| AutoGrad System | Not Started |
